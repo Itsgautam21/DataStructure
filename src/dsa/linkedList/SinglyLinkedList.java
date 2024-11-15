@@ -1,4 +1,4 @@
-package dsa.LinkedList;
+package dsa.linkedList;
 
 class SinglyNode {
     int data;

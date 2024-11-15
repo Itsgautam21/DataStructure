@@ -1,4 +1,4 @@
-package dsa.Sorting;
+package dsa.sorting;
 import java.util.Arrays;
 
 public class BubbleSort {

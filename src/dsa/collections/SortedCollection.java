@@ -1,4 +1,4 @@
-package dsa.CollectionFrameWork;
+package dsa.collections;
 
 import java.util.*;
 /**

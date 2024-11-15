@@ -1,4 +1,4 @@
-package dsa.Recursion;
+package dsa.recursion;
 
 import java.util.*;
 

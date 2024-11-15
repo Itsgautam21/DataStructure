@@ -1,4 +1,4 @@
-package dsa.Heap;
+package dsa.heap;
 import java.util.Arrays;
 
 /** A DataStructures.Heap is a special DataStructures.Tree-based data structure in which the tree is a complete binary tree. Generally,
